@@ -1,0 +1,65 @@
+<application>
+  <component name="AppStorage">
+    <histories>
+      <item value="Sensitive Category Mark" />
+      <item value="freemarker" />
+      <item value="resource Type" />
+      <item value="DP AUTH AUDIT ROLE CHANGE OPERATE LOG" />
+      <item value="hive basem switch table" />
+      <item value="requestmethod" />
+      <item value="hive Auth Global User DB" />
+      <item value="volume Credits" />
+      <item value="conditiontype" />
+      <item value="strong" />
+      <item value="perform" />
+      <item value="perform Quack" />
+      <item value="perform Fly" />
+      <item value="visibility status" />
+      <item value="resource not register" />
+      <item value="MULTI" />
+      <item value="Context" />
+      <item value="render" />
+      <item value="generictype" />
+      <item value="访客限制" />
+      <item value="authenticate" />
+      <item value="辅助类" />
+      <item value="Cargo" />
+      <item value="resourceurn" />
+      <item value="Wappe" />
+      <item value="____ID,TARGETID,DESC,FIELDTYPE,RESOURCEID,RESOURCEURN,RESOURCEURNHASH,VALUETYPE,VALUE,ISNECESSARY&#10;" />
+      <item value="resourcedim" />
+      <item value="    id,targetid,desc,fieldtype,resourceid,resourceurn,resourceurnhash,valuetype,value,isnecessary&#10;" />
+      <item value="id,target Id,desc,field Type,resource Id,resource Urn,resource Urn Hash,value Type,value,is Necessary" />
+      <item value="DP AUTH AUDIT DOWNLOAD LOG" />
+      <item value="Successs" />
+      <item value="authority" />
+      <item value="Authority" />
+      <item value="AUTHORITY" />
+      <item value="Individual" />
+      <item value="执行" />
+      <item value="运行" />
+      <item value="get Elapsed Time" />
+      <item value="属性" />
+      <item value="失败" />
+      <item value="修正" />
+      <item value="修改" />
+      <item value="condition Valid" />
+      <item value="验证" />
+      <item value="Performs an analysis compileShared, which will populate the ParserContext with type, input and variable information" />
+      <item value="Performs an analysis compileShared, which will populate the ParserContext with type, input and variable information, * but will not produce a payload." />
+      <item value="Executes a compiled expression" />
+      <item value="get Or Load" />
+      <item value="expression" />
+      <item value="有效" />
+    </histories>
+    <option name="languageScores">
+      <map>
+        <entry key="CHINESE" value="75" />
+        <entry key="ENGLISH" value="76" />
+        <entry key="AFRIKAANS" value="1" />
+        <entry key="NORWEGIAN" value="1" />
+        <entry key="SPANISH" value="1" />
+      </map>
+    </option>
+  </component>
+</application>

@@ -1,0 +1,20 @@
+<application>
+  <component name="SonarLintGlobalSettings">
+    <option name="sonarQubeServers">
+      <list>
+        <SonarQubeServer>
+          <option name="hostUrl" value="https://sonar.corp.kuaishou.com" />
+          <token>df93df9ddf9bdf9ddf9bdf9edf9ddfc9dfcbdfc8dfcfdf9ddfccdfcbdf9cdfccdf9fdf9adf9cdf92dfcedf93df9cdfc9df9fdf9cdf98df92df9adf9adfc8dfc9df9cdfcbdf9adfccdf9adf92df9fdfcc</token>
+          <option name="name" value="dp-auth" />
+          <organizationKey>default-organization</organizationKey>
+        </SonarQubeServer>
+      </list>
+    </option>
+    <rules>
+      <Rule active="false" key="java:S1659" />
+      <Rule active="false" key="java:S1220" />
+      <Rule active="false" key="java:S1854" />
+      <Rule active="false" key="java:S3864" />
+    </rules>
+  </component>
+</application>

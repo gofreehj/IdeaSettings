@@ -1,0 +1,50 @@
+<application>
+  <component name="GraziConfig">
+    <option name="enabledLanguages">
+      <set>
+        <option value="English (US)" />
+        <option value="Chinese" />
+      </set>
+    </option>
+    <option name="userDisabledRules">
+      <set>
+        <option value="APOS_ARE" />
+        <option value="ARTICLE_MISSING" />
+        <option value="And" />
+        <option value="BY_DEFAULT_COMMA" />
+        <option value="COMMA_AFTER_A_MONTH" />
+        <option value="COMMA_BEFORE_AND" />
+        <option value="COMMA_COMPOUND_SENTENCE" />
+        <option value="COMMA_TAG_QUESTION" />
+        <option value="DATE_NEW_YEAR" />
+        <option value="DOUBLE_PUNCTUATION" />
+        <option value="EG_SPACE" />
+        <option value="ENGLISH_WORD_REPEAT_RULE" />
+        <option value="ENUMERATION_AND_DASHES" />
+        <option value="EN_A_VS_AN" />
+        <option value="EN_COMPOUNDS" />
+        <option value="EN_WORD_COHERENCY" />
+        <option value="FACE_FIRST" />
+        <option value="FOR_NOUN_SAKE" />
+        <option value="INTERJECTIONS_PUNCTUATION" />
+        <option value="INVOICE_OF_FOR" />
+        <option value="MISSING_COMMA_AFTER_INTRODUCTORY_PHRASE" />
+        <option value="MISSING_COMMA_AFTER_WEEKDAY" />
+        <option value="MISSING_COMMA_BETWEEN_DAY_AND_YEAR" />
+        <option value="MISSING_COMMA_WITH_NNP" />
+        <option value="MISSING_HYPHEN" />
+        <option value="NO_COMMA_BEFORE_INDIRECT_QUESTION" />
+        <option value="NO_SPACE_CLOSING_QUOTE" />
+        <option value="OUT_OF_PLACE" />
+        <option value="OUT_OF_THE_WAY" />
+        <option value="O_CLOCK" />
+        <option value="PUNCTUATION_PARAGRAPH_END" />
+        <option value="SENT_START_CONJUNCTIVE_LINKING_ADVERB_COMMA" />
+        <option value="STATE_OF_THE_ART" />
+        <option value="UNIT_SPACE" />
+        <option value="UNLIKELY_OPENING_PUNCTUATION" />
+        <option value="UNNECESSARY_COMMA" />
+      </set>
+    </option>
+  </component>
+</application>

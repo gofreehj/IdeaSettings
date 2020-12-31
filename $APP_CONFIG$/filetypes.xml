@@ -1,0 +1,26 @@
+<application>
+  <component name="FileTypeManager" version="18">
+    <extensionMap>
+      <mapping ext="gradle.kts" type="Kotlin" />
+      <mapping ext="main.kts" type="Kotlin" />
+      <mapping pattern="doc" type="PLAIN_TEXT" />
+      <mapping pattern="todo" type="PLAIN_TEXT" />
+      <mapping pattern=".gitkeep" type="PLAIN_TEXT" />
+      <mapping pattern="a" type="PLAIN_TEXT" />
+      <mapping pattern="aa" type="PLAIN_TEXT" />
+      <mapping ext="tpl" type="PLAIN_TEXT" />
+      <mapping ext="krt" type="PLAIN_TEXT" />
+      <mapping pattern="doc.txt" type="yarn.lock" />
+      <removed_mapping ext="apk" approved="true" type="ARCHIVE" />
+      <removed_mapping ext="bat" approved="true" type="PLAIN_TEXT" />
+      <removed_mapping ext="cmd" approved="true" type="PLAIN_TEXT" />
+      <removed_mapping ext="dockerfile" approved="true" type="textmate" />
+      <removed_mapping ext="ignore" approved="true" type="IgnoreLang file" />
+      <removed_mapping ext="log" approved="true" type="PLAIN_TEXT" />
+      <removed_mapping ext="makefile" approved="true" type="textmate" />
+      <removed_mapping ext="psd" approved="true" type="Image" />
+      <removed_mapping ext="snakefile" approved="true" type="textmate" />
+      <removed_mapping ext="tpl" approved="true" type="Smarty" />
+    </extensionMap>
+  </component>
+</application>
