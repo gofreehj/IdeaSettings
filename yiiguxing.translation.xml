@@ -1,6 +1,10 @@
 <application>
   <component name="AppStorage">
+    <option name="newTranslationDialogX" value="640" />
+    <option name="newTranslationDialogY" value="445" />
     <histories>
+      <item value="nominate" />
+      <item value="nominate&#10;" />
       <item value="Sensitive Category Mark" />
       <item value="freemarker" />
       <item value="resource Type" />
@@ -49,8 +53,6 @@
       <item value="Performs an analysis compileShared, which will populate the ParserContext with type, input and variable information, * but will not produce a payload." />
       <item value="Executes a compiled expression" />
       <item value="get Or Load" />
-      <item value="expression" />
-      <item value="有效" />
     </histories>
     <option name="languageScores">
       <map>
@@ -64,5 +66,13 @@
   </component>
   <component name="Cache">
     <option name="lastTrimTime" value="1611988886879" />
+  </component>
+  <component name="Settings">
+    <option name="translator" value="YOUDAO" />
+    <option name="youdaoTranslateSettings">
+      <youdao-translate>
+        <option name="primaryLanguage" value="ESPERANTO" />
+      </youdao-translate>
+    </option>
   </component>
 </application>
