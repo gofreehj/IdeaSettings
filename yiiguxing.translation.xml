@@ -3,6 +3,7 @@
     <option name="newTranslationDialogX" value="640" />
     <option name="newTranslationDialogY" value="445" />
     <histories>
+      <item value="old Auth Condition" />
       <item value="global degrade" />
       <item value="nominate" />
       <item value="nominate&#10;" />
@@ -52,7 +53,6 @@
       <item value="验证" />
       <item value="Performs an analysis compileShared, which will populate the ParserContext with type, input and variable information" />
       <item value="Performs an analysis compileShared, which will populate the ParserContext with type, input and variable information, * but will not produce a payload." />
-      <item value="Executes a compiled expression" />
     </histories>
     <option name="languageScores">
       <map>
