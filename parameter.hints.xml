@@ -5,6 +5,7 @@
         <added pattern="java.sql.ResultSet.getString(columnLabel)" />
         <added pattern="org.springframework.jdbc.core.namedparam.MapSqlParameterSource.MapSqlParameterSource(paramName,value)" />
         <added pattern="java.sql.ResultSet.getInt(columnLabel)" />
+        <added pattern="org.springframework.jdbc.core.namedparam.MapSqlParameterSource.addValue(paramName,value)" />
       </blacklist>
     </blacklists>
   </component>
