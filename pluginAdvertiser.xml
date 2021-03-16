@@ -2005,6 +2005,30 @@
             </plugin>
           </value>
         </entry>
+        <entry key="*.z">
+          <value>
+            <plugin>
+              <option name="myPluginId" value="com.zenuml.jetbrains" />
+              <option name="myPluginName" value="ZenUML support" />
+            </plugin>
+          </value>
+        </entry>
+        <entry key="*.zen">
+          <value>
+            <plugin>
+              <option name="myPluginId" value="com.zenuml.jetbrains" />
+              <option name="myPluginName" value="ZenUML support" />
+            </plugin>
+          </value>
+        </entry>
+        <entry key="*.zenuml">
+          <value>
+            <plugin>
+              <option name="myPluginId" value="com.zenuml.jetbrains" />
+              <option name="myPluginName" value="ZenUML support" />
+            </plugin>
+          </value>
+        </entry>
         <entry key="*.zip">
           <value>
             <plugin>
