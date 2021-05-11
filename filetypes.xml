@@ -12,6 +12,7 @@
       <mapping pattern="aa" type="PLAIN_TEXT" />
       <mapping ext="tpl" type="PLAIN_TEXT" />
       <mapping ext="krt" type="PLAIN_TEXT" />
+      <mapping ext="tgz" type="PLAIN_TEXT" />
       <mapping pattern="doc.txt" type="yarn.lock" />
       <removed_mapping ext="apk" approved="true" type="ARCHIVE" />
       <removed_mapping ext="bat" approved="true" type="PLAIN_TEXT" />
