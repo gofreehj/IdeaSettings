@@ -7,8 +7,8 @@
       <mapping ext="main.kts" type="Kotlin" />
       <mapping pattern="doc" type="PLAIN_TEXT" />
       <mapping pattern="todo" type="PLAIN_TEXT" />
-      <mapping pattern="a" type="PLAIN_TEXT" />
       <mapping pattern=".gitkeep" type="PLAIN_TEXT" />
+      <mapping pattern="a" type="PLAIN_TEXT" />
       <mapping pattern="aa" type="PLAIN_TEXT" />
       <mapping ext="tpl" type="PLAIN_TEXT" />
       <mapping ext="krt" type="PLAIN_TEXT" />
