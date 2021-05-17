@@ -1,0 +1,6 @@
+<application>
+  <component name="MemoryViewSettings">
+    <option name="isShowWithInstancesOnly" value="false" />
+    <option name="isShowWithDiffOnly" value="true" />
+  </component>
+</application>
