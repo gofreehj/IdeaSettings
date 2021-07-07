@@ -7,6 +7,7 @@
     <option name="CASE_SENSITIVE_SEARCH" value="true" />
     <option name="LOCAL_CASE_SENSITIVE_SEARCH" value="true" />
     <option name="SEARCH_SCOPE" value="Default Changelist" />
+    <option name="FILE_MASK" value="*.tpl" />
     <mask>*.css</mask>
     <mask>*.html</mask>
     <mask>*.jsp</mask>
@@ -15,5 +16,6 @@
     <mask>t</mask>
     <mask>tpl</mask>
     <mask>*.xml</mask>
+    <mask>*.tpl</mask>
   </component>
 </application>
